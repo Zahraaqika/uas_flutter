@@ -62,7 +62,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
         ProfileOption.arrow(
             title: 'Undang Teman', icon: _profileIcon('user@2x.png')),
         ProfileOption(
-          title: 'Logout',
+          title: 'Keluar',
           icon: _profileIcon('logout@2x.png'),
           titleColor: const Color(0xFFF75555),
         ),
