@@ -27,7 +27,7 @@ class HomeAppBar extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: const [
                   Text(
-                    'Selamat Pagi 👋',
+                    'Selamat Datang 👋',
                     style: TextStyle(
                       color: Color(0xFF757575),
                       fontWeight: FontWeight.w500,
