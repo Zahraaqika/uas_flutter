@@ -11,7 +11,7 @@ class TestScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Text(
-        '$title\nWaitting to implement!\nExpect it!',
+        '$title\nMenunggu Pesanan!\nTunggu!',
         textAlign: TextAlign.center,
         style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 30),
       ),
