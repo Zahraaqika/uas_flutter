@@ -15,7 +15,7 @@ class FreshBuyerApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Fashion',
+      title: 'Fashion Style',
       theme: appTheme(),
       routes: routes,
       home: const FRTabbarScreen(),
